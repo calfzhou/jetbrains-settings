@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '/Users/zhouji/.m2/repository/com/graphhopper/jsprit-core/1.7/jsprit-core-1.7.jar!/com/graphhopper/jsprit/core/problem/constraint/AdditionalTransportationCosts.class - [Maven: com.graphhopper:jsprit-core:1.7]'" />
+    <option name="defaultScopeName" value="File '/Users/zhouji/.m2/repository/com/graphhopper/jsprit-core/1.7/jsprit-core-1.7.jar!/com/graphhopper/jsprit/core/problem/constraint/AdditionalTransportationCosts.class - [Maven: com.graphhopper:jsprit-core:1.7]'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/zhouji/.m2/repository/com/graphhopper/jsprit-core/1.7/jsprit-core-1.7.jar!/com/graphhopper/jsprit/core/problem/constraint/AdditionalTransportationCosts.class - [Maven: com.graphhopper:jsprit-core:1.7]'" />
   </component>
 </application>
