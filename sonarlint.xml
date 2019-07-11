@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://codequality.danke.life/" />
+          <token>dfc8df9fdfc8df93df9bdf9cdfccdf9edf9cdf92dfcbdf9bdfccdf92df92dfcedf9bdfcbdfcbdfcfdfcedf9adfccdf9ddf92df93dfccdf9adf92df9edf92dfcbdf9ddf9fdfcfdf9ddf92dfccdfc9dfc9</token>
+          <option name="name" value="DankeSonar" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
